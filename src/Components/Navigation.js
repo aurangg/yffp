@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link, Events, animateScroll as scroll, scroller } from 'react-scroll';
 import './major.css';
 
 class Navigation extends React.Component{
