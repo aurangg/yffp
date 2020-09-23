@@ -3,7 +3,7 @@ import Home from './Components/Home';
 import Staking from './Components/Staking';
 import Pool from './Components/Pool';
 
-import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 
 function App() {
